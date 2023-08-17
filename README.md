@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
 <a href="https://github.com/WoodHolz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WoodHolz&show_icons=true&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WoodHolz&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/Woodholz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodHolz&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodHolz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
