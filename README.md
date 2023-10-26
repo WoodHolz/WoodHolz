@@ -35,3 +35,7 @@
 [![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org/category/about.html)
 [![rust](https://img.shields.io/badge/-Rust-d07f4f?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![wakatime](https://wakatime.com/badge/user/e6f3d393-63ef-4414-8566-c4cc9b1c437e.svg?style=flat-square)](https://wakatime.com/@e6f3d393-63ef-4414-8566-c4cc9b1c437e)
+
+### Contact me
+
+[![Gmail](https://img.shields.io/badge/Gmail-zhenhong030213@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](https://mail.google.com/mail/)
