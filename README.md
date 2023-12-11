@@ -11,11 +11,13 @@
 
 ### I'm Learning
 
-![Learning](https://skillicons.dev/icons?i=linux,rust,c)
+![Learning](https://skillicons.dev/icons?i=linux,rust,c,cpp)
 
 [![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://elixir.bootlin.com/linux/latest/source)
 [![rust](https://img.shields.io/badge/-Rust-d07f4f?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![c](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
+[![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)](https://en.cppreference.com/)
+
 
 ### Platform && Tools
 
@@ -34,6 +36,7 @@
 [![markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown.com.cn/)
 [![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org/category/about.html)
 [![rust](https://img.shields.io/badge/-Rust-d07f4f?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/)
+[![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)](https://en.cppreference.com/)
 
 ### Contact me
 
