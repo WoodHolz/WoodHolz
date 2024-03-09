@@ -21,8 +21,8 @@
 ### Platform && Tools
 
 [![phone](https://img.shields.io/badge/iPhone-SE2-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![arch linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![arch linux](https://img.shields.io/badge/WSL-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![ubuntu](https://img.shields.io/badge/Ubuntu-23.04-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![windows 11](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=Windows-11&logoColor=ffffff)](https://www.microsoft.com/)
 
 [![vscode](https://img.shields.io/badge/Code%20Editor-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
